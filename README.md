@@ -7,5 +7,62 @@ A responsive real-time chat application built using React.js on the frontend and
 
 ![Screenshot 2025-06-22 190916](https://github.com/user-attachments/assets/da287c6d-3deb-451d-b92f-6bd0a0aadafe)
 
+🚀 Features
+🔄 Real-time communication using WebSockets
 
+💬 One-to-one and group messaging support
+
+🧠 Message history maintained during session
+
+📱 Responsive UI for mobile and desktop
+
+🧼 Auto-scroll to latest message
+
+✅ Typing indicator (optional future upgrade)
+
+🛠️ Tech Stack
+Frontend: React.js, HTML, CSS
+
+Backend: Node.js, Express.js, WebSocket (ws)
+
+Other Tools: npm, VS Code, Git
+
+⚙️ How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/chat-app.git
+cd chat-app
+Start the server:
+
+bash
+Copy
+Edit
+cd server
+npm install
+node server.js
+Start the client:
+
+bash
+Copy
+Edit
+cd ../client
+npm install
+npm start
+Visit in browser:
+Open http://localhost:3000
+
+📌 Note
+Make sure the WebSocket server is running before starting the React app.
+
+✨ Future Enhancements
+User authentication
+
+Persistent chat history with MongoDB
+
+Online/offline status
+
+Emoji and media support
 
