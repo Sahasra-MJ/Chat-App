@@ -22,6 +22,7 @@ A responsive real-time chat application built using React.js on the frontend and
       ✅ Typing indicator (optional future upgrade)
 
 🛠️ Tech Stack
+
       Frontend: React.js, HTML, CSS
       
       Backend: Node.js, Express.js, WebSocket (ws)
@@ -29,9 +30,11 @@ A responsive real-time chat application built using React.js on the frontend and
       Other Tools: npm, VS Code, Git
 
 📌 Note
+
       Make sure the WebSocket server is running before starting the React app.
 
 ✨ Future Enhancements
+
       User authentication
       
       Persistent chat history with MongoDB
