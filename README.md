@@ -27,33 +27,6 @@ Backend: Node.js, Express.js, WebSocket (ws)
 
 Other Tools: npm, VS Code, Git
 
-⚙️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
-Start the server:
-
-bash
-Copy
-Edit
-cd server
-npm install
-node server.js
-Start the client:
-
-bash
-Copy
-Edit
-cd ../client
-npm install
-npm start
-Visit in browser:
-Open http://localhost:3000
-
 📌 Note
 Make sure the WebSocket server is running before starting the React app.
 
